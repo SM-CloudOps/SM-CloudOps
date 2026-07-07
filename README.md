@@ -1,15 +1,18 @@
-## Hi there 👋
+                                                            श्री साँवा 
+                                                          श्री गणेशाय नमः
+                                                         ॐ क्रीं भौमाय नमः 
+                                                          ॐ नमः शिवाय
+                                                            राधे कृष्ण 
 
+### Namastey, I'm Saloni Shailesh Nayna Mataliya 👋
 
-**SM-CloudOps/SM-CloudOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support Administrator at Paybill, focused on cloud, DevOps, and security operations. Permanent resident in Canada.
 
-Here are some ideas to get you started:
+- 🔐 Building a cryptography & secrets-operations portfolio — encryption, hashing, PKI, and Vault + AWS KMS
+- ☁️ AWS Certified Solutions Architect – Associate
+- 🛠️ DevOps & automation: CI/CD, Docker, infrastructure, monitoring
+- 📌 Currently building: **Crypto-Ops Toolkit** → **Enterprise Secrets & PKI Operations**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Open to Cloud / DevOps / Security roles.
+
+📫 Reach me: smataliya97@gmail.com
